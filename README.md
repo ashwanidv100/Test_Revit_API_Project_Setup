@@ -5,5 +5,5 @@ These are tool versions used in this projects:
 - Revit 2019
 - Visual Studio 2019
 
-This project is open undet MIT licence !
+This project is open under MIT licence !
 Advised - To read the licence before you use it. 
